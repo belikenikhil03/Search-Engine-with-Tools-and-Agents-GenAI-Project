@@ -11,3 +11,4 @@ langchain_chroma
 python-dotenv
 streamlit
 langchain_groq
+duckduckgo-search
